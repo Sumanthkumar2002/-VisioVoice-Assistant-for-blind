@@ -1,4 +1,4 @@
-# DobaraMatPuchana
+
 
 ## **VisioVoice** : Assistant for blind
 
@@ -34,9 +34,8 @@ Key Features:
 
     1. It can read out notifications from mobile and as a further application respond to messages, emails, calender, etc
     
-6. **Add ons**
-
-    1. VisioVoice serves the basic features of a chat bot i.e. responds to question including time, lighting conditions, basic wh questions, etc.
+ 
+   
     
     
 Tech- stacks used:
